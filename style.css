@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    font-weight: 900;
+    text-align: center;
+    font-size: 38px;
+}
+h4 {
+    font-weight: 800;
+    font-size: 18px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 15%;
+    border-color: black;
+    border-style: ridge;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button {
+    border-radius: 5%;
+    background-color: firebrick;
+    color: aliceblue;
+    margin-left: 100px;
+}
